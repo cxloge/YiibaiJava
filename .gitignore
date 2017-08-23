@@ -1,3 +1,5 @@
 #过滤文件夹 _book  node_modules
 _book
 node_modules
+*.bat
+*.mobi
